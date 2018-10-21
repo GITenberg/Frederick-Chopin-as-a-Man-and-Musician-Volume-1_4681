@@ -1,5 +1,5 @@
 _repo: Frederick-Chopin-as-a-Man-and-Musician-Volume-1_4681
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ subjects:
 - !lcc 'ML'
 - !lcsh 'Composers -- Biography'
 - !lcsh 'Chopin, Frédéric, 1810-1849'
+- GITenberg
 title: Frederick Chopin, as a Man and Musician — Volume 1
 url: http://www.gutenberg.org/ebooks/4681
